@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Comunicacao</string>
+    <string name="acao">Gerar relatório</string>
+    <string name="titulo">Relatórios</string>
+    <string name="aguarde">Aguarde</string>
+    <string name="carregando">Carregando ...</string>
+</resources>
