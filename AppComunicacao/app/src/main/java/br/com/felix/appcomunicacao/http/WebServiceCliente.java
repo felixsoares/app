@@ -37,7 +37,6 @@ public class WebServiceCliente {
             }
             else {
                 response = "";
-
             }
         } catch (Exception e) {
             e.printStackTrace();
