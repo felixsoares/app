@@ -1,1 +1,1 @@
-# Aplicação para comunicação com webservice e montar um gráfico de linhas
+# App com a finalidade de buscar dados de um json e montar um gráfico
